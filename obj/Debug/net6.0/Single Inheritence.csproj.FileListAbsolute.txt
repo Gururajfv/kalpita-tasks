@@ -1,0 +1,15 @@
+C:\Users\GururajVadavi\source\repos\Single Inheritence\bin\Debug\net6.0\Single Inheritence.exe
+C:\Users\GururajVadavi\source\repos\Single Inheritence\bin\Debug\net6.0\Single Inheritence.deps.json
+C:\Users\GururajVadavi\source\repos\Single Inheritence\bin\Debug\net6.0\Single Inheritence.runtimeconfig.json
+C:\Users\GururajVadavi\source\repos\Single Inheritence\bin\Debug\net6.0\Single Inheritence.dll
+C:\Users\GururajVadavi\source\repos\Single Inheritence\bin\Debug\net6.0\Single Inheritence.pdb
+C:\Users\GururajVadavi\source\repos\Single Inheritence\obj\Debug\net6.0\Single Inheritence.csproj.AssemblyReference.cache
+C:\Users\GururajVadavi\source\repos\Single Inheritence\obj\Debug\net6.0\Single Inheritence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GururajVadavi\source\repos\Single Inheritence\obj\Debug\net6.0\Single Inheritence.AssemblyInfoInputs.cache
+C:\Users\GururajVadavi\source\repos\Single Inheritence\obj\Debug\net6.0\Single Inheritence.AssemblyInfo.cs
+C:\Users\GururajVadavi\source\repos\Single Inheritence\obj\Debug\net6.0\Single Inheritence.csproj.CoreCompileInputs.cache
+C:\Users\GururajVadavi\source\repos\Single Inheritence\obj\Debug\net6.0\Single Inheritence.dll
+C:\Users\GururajVadavi\source\repos\Single Inheritence\obj\Debug\net6.0\refint\Single Inheritence.dll
+C:\Users\GururajVadavi\source\repos\Single Inheritence\obj\Debug\net6.0\Single Inheritence.pdb
+C:\Users\GururajVadavi\source\repos\Single Inheritence\obj\Debug\net6.0\Single Inheritence.genruntimeconfig.cache
+C:\Users\GururajVadavi\source\repos\Single Inheritence\obj\Debug\net6.0\ref\Single Inheritence.dll
